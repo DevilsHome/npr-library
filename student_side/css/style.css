@@ -1,0 +1,167 @@
+/* Website template by freewebsitetemplates.com */
+/*------------------------------ FOOTER ------------------------------*/
+#footer {
+	width: 100%;
+	background-color: #e2b241;
+	border-top: 1px solid #fff;
+	padding: 28px 0 14px;
+}
+#footer p {
+	color: #4b3a33;
+	font-size: 12px;
+	line-height: 18px;
+	margin: 0;
+}
+#footer > div {
+	width: 940px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+#footer .posts {
+	float: left;
+	height: 300px;
+	width: 302px;
+	padding: 0;
+}
+#footer .posts li {
+	width: 276px;
+	margin: 0 0 30px;
+	padding-left: 10px;
+}
+#footer .posts p a {
+	line-height: 24px;
+	margin: -3px 0 3px;
+}
+#links {
+	background: url(../images/separator-dark.png) repeat-x left bottom;
+	color: #4b3a33;
+	display: inline-block;
+	width: 940px;
+	padding: 0 0 20px;
+}
+#links h4 {
+	color: #241b18;
+	font-family: "Oswald";
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0 0 12px;
+	padding-left: 10px;
+	text-transform: uppercase;
+}
+#links > div {
+	float: left;
+	background: url(../images/separator-dark-vertical.png) repeat-y left top;
+	height: 300px;
+	padding-left: 20px;
+}
+#links .showroom {
+	background: none;
+	width: 293px;
+	padding-left: 0;
+	padding-right: 15px;
+}
+#links .showroom h4 {
+	padding-left: 0;
+}
+#links .showroom img {
+	margin-bottom: 12px;
+}
+#links .showroom p {
+	font-size: 13px;
+	margin: 0;
+}
+#links .showroom p em {
+	color: #fff;
+	display: block;
+	font-style: normal;
+	margin: 0 0 20px;
+}
+#links .showroom p a {
+	color: #4b3a33;
+	display: block;
+}
+#links .showroom p a:hover {
+	color: #241b18;
+}
+#newsletter {
+	background: url(../images/separator-dark.png) repeat-x left bottom;
+	width: 284px;
+	margin: 0 0 16px 6px;
+	padding: 0 0 20px;
+}
+#newsletter h4 {
+	padding-left: 0;
+}
+#newsletter input {
+	color: #4b3a33;
+	height: 26px;
+	line-height: 26px;
+	width: 269px;
+	border: 3px solid #af8112;
+	margin: 0 0 6px;
+	padding: 0 4px;
+*margin-left: -6px; /** Needed for IE7 **/
+}
+#newsletter input.btn2 {
+	color: #fff;
+	width: 83px;
+	border: 0;
+	padding: 0px 0 2px;
+}
+#connect a {
+	display: inline-block;
+	height: 33px;
+	margin: 0 10px;
+}
+#connect a.facebook {
+	background-position: -46px -112px;
+	width: 33px;
+}
+#connect a.googleplus {
+	background-position: -46px -153px;
+	width: 34px;
+}
+#connect a.twitter {
+	background-position: -46px -194px;
+	width: 40px;
+}
+#connect a.facebook:hover {
+	background-position: 0 -112px;
+}
+#connect a.googleplus:hover {
+	background-position: 0 -153px;
+}
+#connect a.twitter:hover {
+	background-position: 0 -194px;
+}
+#footer ul.navigation {
+	float: right;
+	display: inline-block;
+	line-height: 24px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#footer ul.navigation li {
+	float: left;
+	margin-left: 15px;
+}
+#footer ul.navigation li:first-child {
+	margin-left: 0;
+}
+#footer ul.navigation li a {
+	color: #ab7d0f;
+	font: 11px/24px "Oswald";
+	text-decoration: none;
+	text-transform: uppercase;
+}
+#footer ul.navigation li a:hover {
+	color: #241b18;
+}
+#footer #footnote {
+	color: #ab7d0f;
+	font: 11px/24px "Oswald";
+	margin: 0;
+	text-transform: uppercase;
+}
